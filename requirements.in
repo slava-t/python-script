@@ -1,0 +1,11 @@
+argcomplete
+flask
+humanize
+python-dateutil
+requests
+termcolor
+terminaltables
+tinydb
+urllib3
+borgbackup
+
